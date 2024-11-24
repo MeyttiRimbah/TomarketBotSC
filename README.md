@@ -82,12 +82,12 @@ socks5://user:pass@127.0.0.1:6969
 
 2. Clone this repository
    ```shell
-   git clone https://github.com/akasakaid/tomarketod.git
+   git clone https://github.com/MeyttiRimbah/TomarketBotSC
    ```
 
-3. goto tomarketod directory
+3. goto TomarketBotSC directory
    ```
-   cd tomarketod
+   cd TomarketBotSC
    ```
 
 4. install the require library
@@ -118,13 +118,13 @@ socks5://user:pass@127.0.0.1:6969
 2. Clone this repository
    
    ```shell
-   git clone https://github.com/akasakaid/tomarketod.git
+   git clone https://github.com/MeyttiRimbah/TomarketBotSC
    ```
 
-3. goto tomarketod directory
+3. goto TomarketBotSC directory
 
    ```shell
-   cd tomarketod
+   cd TomarketBotSC
    ```
 
 4. Install the require library
@@ -156,12 +156,12 @@ socks5://user:pass@127.0.0.1:6969
 
 2. Clone this repository
    ```shell
-   git clone https://github.com/akasakaid/tomarketod.git
+   git clone https://github.com/MeyttiRimbah/TomarketBotSC
    ```
 
-3. goto tomarketod directory
+3. goto TomarketBotSC directory
    ```
-   cd tomarketod
+   cd TomarketBotSC
    ```
 
 4. install the require library
